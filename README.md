@@ -1,10 +1,13 @@
 # Description/Overview
 Uses [IR Positioning camera](https://evelta.com/gravity-ir-positioning-camera-for-arduino/?srsltid=AfmBOooNiAx0S3C0ovRrFRF-nSRxPkPTq1QWmGUFn1qSm-HRJ7FWbIFC) to create a wiimote style mouse that can be used to control the mouse without needing to rely on an accelorometer which will drift
 
-#Setup
-Step 1: Find the receiver mac address, and put it in the sender microPython code
-Step 2: Update the python mouse listener with the com port for the receiver device
-Step 3: 🤷🏽‍♂️🤷🏽‍♂️🤷🏽‍♂️ Havent gotten here yet... probably some calibration steps or simething 
+# Setup
+ Step 1: Find the receiver mac address, and put it in the sender microPython code
+ 
+ Step 2: Update the python mouse listener with the com port for the receiver device
+ 
+ Step 3: 🤷🏽‍♂️🤷🏽‍♂️🤷🏽‍♂️ Havent gotten here yet... probably some calibration steps or simething 
+ 
 
 # Hardware Requirements 
 (Dont actually use these links they were just the first ones I found. All of this hardware can be found for much cheaper elsewhere):
